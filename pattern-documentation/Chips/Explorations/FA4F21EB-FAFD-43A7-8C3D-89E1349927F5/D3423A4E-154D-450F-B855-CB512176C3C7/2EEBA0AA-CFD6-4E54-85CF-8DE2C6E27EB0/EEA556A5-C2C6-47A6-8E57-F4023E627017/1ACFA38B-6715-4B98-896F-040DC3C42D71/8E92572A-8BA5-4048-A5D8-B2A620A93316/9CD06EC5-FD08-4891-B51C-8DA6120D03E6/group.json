@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "9CD06EC5-FD08-4891-B51C-8DA6120D03E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 24,
+    "x": 8,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "958AC542-B39E-43F0-9645-91F7621CA0A7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8DAF34CD-9D95-4511-B96F-185E4E83AE2B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D5F71F2E-51A0-4178-8F39-6DFD4FB14635"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A467EBA5-16B3-440B-A9DA-FC32E6FCCF13"
+    }
+  ],
+  "name": "icons / product / aws copy 7",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
